@@ -10,9 +10,7 @@ section {
     margin-bottom: 50px;
 }
 
-h1, h2, h3, h4 {
-    color: #df691a;
-}
+
 h3 {
     font-size: 23px;
 }
@@ -33,10 +31,7 @@ header.navbar {
     height: auto;
     line-height: 50px;
     margin-left: 20px;
-    color: #df691a;
-}
-.navbar a.navbar-brand:hover {
-    color: #df691a;
+
 }
 .navbar .navbar-brand small {
     font-size: 18px;
@@ -68,9 +63,6 @@ header.navbar {
     margin-left: 50px;
 }
 
-#sidebar .text-muted {
-    color: #859AAF;
-}
 
 pre {
     padding: 0;
